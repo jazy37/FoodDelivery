@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/FoodDelivery/static/css/main.a46d0a43.css",
+    "main.js": "/FoodDelivery/static/js/main.81de2176.js",
+    "static/media/meals2.jpg": "/FoodDelivery/static/media/meals2.f85929623f774d327979.jpg",
+    "index.html": "/FoodDelivery/index.html",
+    "main.a46d0a43.css.map": "/FoodDelivery/static/css/main.a46d0a43.css.map",
+    "main.81de2176.js.map": "/FoodDelivery/static/js/main.81de2176.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a46d0a43.css",
+    "static/js/main.81de2176.js"
+  ]
+}
