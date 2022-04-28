@@ -1,6 +1,6 @@
 # Link 
 
-https://jazy37.github.io/FoodDelivery/
+<a href="https://jazy37.github.io/FoodDelivery/" target="_blank">See the project</a>
 
 #Design Appearance
 
